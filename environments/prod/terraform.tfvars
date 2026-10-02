@@ -1,0 +1,5 @@
+project_id      = "agentic-support-510416"
+region          = "us-central1"
+environment     = "prod"
+service_name    = "terraform-agent-platform"
+container_image = "us-docker.pkg.dev/cloudrun/container/hello"

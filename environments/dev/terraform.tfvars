@@ -1,0 +1,5 @@
+project_id      = "agentic-support-510416"
+region          = "us-central1"
+environment     = "dev"
+service_name    = "terraform-agent-platform"
+container_image = "us-central1-docker.pkg.dev/agentic-support-510416/agent-platform-dev/terraform-agent-platform:dev-v1"
